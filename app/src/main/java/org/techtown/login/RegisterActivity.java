@@ -57,7 +57,7 @@ public class RegisterActivity extends AppCompatActivity {
                             startActivity(intent);
                             finish();
                         } else{
-                            Toast.makeText(RegisterActivity.this,"회원가입에 실패하셨습니다",Toast.LENGTH_SHORT).show();
+                            Toast.makeText(RegisterActivity.this,"회원가입에 실패하셨습니다.",Toast.LENGTH_SHORT).show();
                         }
                     }
                 });
