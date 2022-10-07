@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023562292619",
+    "project_id": "mylogin-49dc8",
+    "storage_bucket": "mylogin-49dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023562292619:android:d5671876640770beab238e",
+        "android_client_info": {
+          "package_name": "org.techtown.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023562292619-t10i500eokivvgfl69i32eg96r55lpsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlKd1CGE8O4x86MyqIcbaedPbRxlxl0WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023562292619-t10i500eokivvgfl69i32eg96r55lpsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
